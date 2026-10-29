@@ -1,0 +1,10 @@
+COMERCIAL MILANE — LANDING PAGE ALTO PADRÃO
+
+Arquivos do site:
+- index.html — página completa
+- logo-milane.png — logo fornecido pelo cliente
+- banner-milane.jpg — banner/foto fornecido pelo cliente
+
+Publique os três arquivos juntos na mesma pasta. Não renomeie os arquivos de imagem.
+Antes de publicar, abra index.html e configure a constante WHATSAPP_NUMBER com o número oficial da loja, somente dígitos e incluindo país + DDD.
+As fotos de produtos/interiores nas seções de catálogo são imagens externas ilustrativas e precisam de internet. O banner e o logo enviados estão incluídos localmente.
